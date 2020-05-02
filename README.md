@@ -2,7 +2,8 @@
 I decided to create a simple api wrapper for the lovense API.
 
 ## Install
-Simple run `npm install simple-lovense`
+Simply run 
+`npm install simple-lovense`
 
 ## Examples
 You can find a simple use case in example.js
