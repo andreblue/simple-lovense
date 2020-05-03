@@ -14,7 +14,7 @@ Returns the api used to check for toys.
 ### LovenseOBJ.isDebug()
 Returns true/false for the debug mode.
 ### LovenseOBJ.processData(data)
-Takes the json responds from the API with the toy data and changes it a touch.
+Takes the json response from the API with the toy data and changes it a touch.
 **Only use this if you know why you should.**
 ### LovenseOBJ.listToys(domain)
 Returns the toys for the domain you pass. If you leave it empty, it will return for the currently set domain.
